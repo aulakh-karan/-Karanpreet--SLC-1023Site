@@ -1,3 +1,2 @@
-# Welcome to Karanpreet's site
+Welcome to Karanpreet Singh - 4404882’s site
 
-This is my first GitHub Pages site.
